@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "grammy": "^1.17.2"
+  },
+  "name": "test-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node api/bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
